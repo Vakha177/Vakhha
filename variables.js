@@ -1,0 +1,10 @@
+//Переменные
+let gameName= 'Warface'
+let description = 'Худшая Игра'
+let versoionGame= 'Последняя версия'
+let nameAllods = 'Khaimzon'
+let prograingLanguage = 'JS'
+let versoionLangeage = 'Последняя версия'
+let nameCarts = 'Angar'
+let webCiteAllods= 'Warface.com'
+let languageInterface= 'neznayu'
